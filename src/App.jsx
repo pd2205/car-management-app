@@ -3,13 +3,13 @@ import CarForm from './components/CarForm'
 import CarList from './components/CarList'
 import CarSearch from './components/CarSearch'
 import CarValue from './components/CarValue'
+import './styles.css'
 
 const App = () => {
   return (
     <div>
       <CarForm />
       <CarSearch />
-      <CarList />
       <CarList />
       <CarValue />
     </div>

@@ -9,4 +9,4 @@ const store = configureStore({
   }
 })
 
-export { store, changeCost, changeName, addCar, removeCar, ch, changeSearchTerm }
+export { store, changeCost, changeName, addCar, removeCar, changeSearchTerm, }
